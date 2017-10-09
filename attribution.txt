@@ -1,0 +1,18 @@
+LICENSES
+
+CC0              https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Code is licensed CC0.
+
+SOUND
+
+key sounds
+Source: http://freesound.org/people/monotraum/sounds/145534/
+Author: http://freesound.org/people/monotraum/
+License: CC0
+
+
+typewriter-bell.ogg
+Source: http://freesound.org/people/ramsamba/sounds/318687/
+Authro: http://freesound.org/people/ramsamba/
+License: CC0
