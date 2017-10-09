@@ -27,6 +27,11 @@ class ViewBook(tools._State):
                 self.quit = True
             elif event.key == pg.K_p:
                 self.paused = not self.paused
+            elif event.key == pg.K_UP:
+                if self.view_rate > 10:
+                    self.view_rate -= 10
+            elif event.key == pg.K_DOWN:
+                self.view_rate += 10
             elif event.key == pg.K_SPACE:
                 self.done = True
                 self.next = "GAMEPLAY"

@@ -6,6 +6,10 @@ Submission for [/r/pygame challenge](https://www.reddit.com/r/pygame/comments/6z
 
 # Controls
 
+**ESC** Quit
+
+## Draw Mode
+
 **LEFT** Previous Page
 
 **RIGHT** Next Page
@@ -22,7 +26,15 @@ Submission for [/r/pygame challenge](https://www.reddit.com/r/pygame/comments/6z
 
 **Ctrl-S** Save
 
-**SPACE** Toggle drawing / viewing
+**SPACE** Swtich to View mode
 
-**ESC** Quit
 
+## View Mode
+
+**UP** Increase playback speed
+
+**DOWN** Decrease playback speed
+
+**P** Pause / unpause
+
+**SPACE** Switch to Draw mode
